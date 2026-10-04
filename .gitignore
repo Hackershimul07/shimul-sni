@@ -1,0 +1,8 @@
+V4.txt
+V6.txt
+scan_state.json
+scan_errors.log
+*.log
+__pycache__/
+multithreading.py
+switch.sh
