@@ -44,8 +44,8 @@ cd shimul-sni && bash install.sh
 Switch menu te:
 
 ```
-1. V5  SNI FINDER   (shimul.py)
-2. V6  ANYISP SNI   (shimul2.py)
+1. SHIMUL V1   (shimul.py)
+2. SHIMUL V2   (shimul2.py)
 0. EXIT
 ```
 
@@ -116,21 +116,7 @@ cd shimul-sni && git pull && bash install.sh
 
 ---
 
-## 🔒 Private repo hole
 
-Plain `git clone` kaj korbe na, access token lagbe:
-
-1. GitHub → Settings → Developer settings → **Fine-grained tokens**
-2. Ei repo select koro, **Contents: Read-only** dao
-3. Clone:
-
-```bash
-git clone https://USERNAME:TOKEN@github.com/Hackershimul07/shimul-sni.git
-```
-
-Token kothao share korbe na.
-
----
 
 ## 🛠️ Problem hole
 
